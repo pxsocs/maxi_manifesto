@@ -89,6 +89,10 @@ As mentioned, Bitcoin’s code is completely open source. It can and has been fo
 
 Gresham's law is a monetary principle stating that "bad money drives out good." It is primarily used for consideration and application in currency markets. Gresham's law was originally based on the composition of minted coins and the value of the precious metals used in them.
 
+Bitcoin is the only monetary network that allows money to travel through time and space with very little cost. Gold, for example, is great to store value through time - a bar of gold will last thousands of years. But it's terrible to move through space. Many are the examples of gold being stolen while being transported since the early days of horse waggons to ships being attacked by pirates. This led to the development of deposit notes - a claim to gold somewhere.
+
+A piece of paper can be taken easily anywhere. But guaranteing that
+
 
 ### Lessons from the past
 
@@ -135,6 +139,9 @@ That’s it.
 It does this job extremely well. Not even the most powerful government in the world has the power to change Bitcoin’s rules.
 
 This, then, is Bitcoin’s key feature. The one thing that sets it apart from every single altcoin: Immutability.
+
+
+Bitcoin is freedom technology. Just like the separation of Church from State was fundamental for progress, we now have a technology that allows us to separate money from state.
 
 
 
