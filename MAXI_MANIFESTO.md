@@ -8,7 +8,7 @@
 > -- <cite>[Hal Finney, 1992, Cypherpunks Mailing List](https://cryptoanarchy.wiki/people/hal-finney)</cite>
 
 
-Bitcoin Maximalists advocate that Bitcoin is and always will be the only true digital asset. All other assets are inferior distractions; most are scams that eventually will fade away. This conclusion is based on observation and experience coming from some fundamental principals.
+Bitcoin is and always will be the only true digital asset. All other assets are inferior distractions; most are scams that eventually will fade away. This conclusion is based on observation and experience coming from some fundamental principals.
 
 
 ### Never Trust. Always Verify.
